@@ -11,3 +11,9 @@
 - juhu
 
 # Chapter 3
+
+- Spagetti, Lasagne 
+- Steak
+
+# Chapter 4
+
