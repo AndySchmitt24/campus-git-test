@@ -1,3 +1,1 @@
-#Git & Github
-
-##Chapter 1
+# Git & Github
