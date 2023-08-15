@@ -16,5 +16,3 @@
 - Steak
 
 # Chapter 4
-
-- hwchj
